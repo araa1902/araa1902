@@ -29,4 +29,4 @@ I’m a Computer Science student at the University of Bath, currently in my seco
 - Email: [kumar.aravind@aol.com](mailto:kumar.aravind@aol.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aravind-kumar-74720a212/)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=araa427)](https://github.com/KnlnKS/leetcode-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/araa427)
