@@ -19,10 +19,10 @@ I’m a Computer Science student at the University of Bath, currently in my seco
 ### 🔭 I’m currently working on:
 - **Sentimatic**: A platform designed to revolutionise the way users interpret customer feedback from e-commerce products. By scraping reviews and leveraging advanced Large Language Models (LLMs), Sentimatic will offer actionable insights and sentiment trends, enabling users to make well-informed purchasing decisions with ease. My vision is to provide a medium for exciting data-driven insights from e-commerce reviews, all presented in an intuitive and engaging format.
 
-## 🔧 Languages ##: 
+## 🔧 Languages: 
 [![My Skills](https://skillicons.dev/icons?i=py,cs,cpp,java,sqlite,js,ts,haskell)](https://skillicons.dev)
 
-## 🔧 Frameworks/Tools ##: 
+## 🔧 Frameworks/Tools: 
 [![My Skills](https://skillicons.dev/icons?i=vite,tailwind,supabase,postgres,nodejs,nextjs)](https://skillicons.dev)
 
 ### 📫 How to reach me:
