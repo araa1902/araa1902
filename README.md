@@ -20,10 +20,10 @@ I’m a Computer Science student at the University of Bath, currently in my seco
 - **Sentimatic**: A platform designed to revolutionise the way users interpret customer feedback/reviews from e-commerce products. By scraping reviews and leveraging advanced Large Language Models (LLMs), Sentimatic will offer actionable insights and sentiment trends, enabling users to make well-informed purchasing decisions with ease. Our mission is to turn scattered customer feedback into clear, data-driven insights, all presented in an intuitive and visually engaging format.
 
 ## 🔧 Languages ##: 
-[![My Skills](https://skillicons.dev/icons?i=py,cs,c++,java,sqlite,js,ts,haskell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cs,cpp,java,sqlite,js,ts,haskell)](https://skillicons.dev)
 
 ## 🔧 Frameworks/Tools ##: 
-[![My Skills](https://skillicons.dev/icons?i=vite,tailwind,supabase,progres,nodejs,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,tailwind,supabase,postgres,nodejs,nextjs)](https://skillicons.dev)
 
 ### 📫 How to reach me:
 - Email: [kumar.aravind@aol.com](mailto:kumar.aravind@aol.com)
