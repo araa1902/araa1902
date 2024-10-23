@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 
 I’m a Computer Science student at the University of Bath, currently in my second year, with a passion for full stack development, data analysis, and machine learning. Through my various projects and internship experience, I am constantly driven by my curiosity for learning new technologies and solving complex problems.
 
+## Upcoming Projects:
+- [ ] **E-Commerce Sentiment Analysis Platform**
+  - **Frontend:** React, TypeScript, Tailwind CSS
+  - **Backend:** Node.js, Express
+  - **Database:** PostgreSQL
+  - **AI/ML:** Meta's LLaMA 3 via Groq inference API
+
 ## 🔧 Languages: 
 [![My Skills](https://skillicons.dev/icons?i=py,cs,cpp,java,sqlite,js,ts,haskell)](https://skillicons.dev)
 
