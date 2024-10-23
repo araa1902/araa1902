@@ -20,8 +20,8 @@ I’m a Computer Science student at the University of Bath, currently in my seco
 - [ ] **E-Commerce Sentiment Analysis Platform**
   - **Frontend:** React, TypeScript, Tailwind CSS
   - **Backend:** Node.js, Express
-  - **Database:** PostgreSQL
-  - **AI/ML:** Meta's LLaMA 3 via Groq inference API
+  - **Database:** PostgreSQL model via Supabase
+  - **Machine Learning:** LLaMA 3 via Groq inference engine.
 
 ## 🔧 Languages: 
 [![My Skills](https://skillicons.dev/icons?i=py,cs,cpp,java,sqlite,js,ts,haskell)](https://skillicons.dev)
