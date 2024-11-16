@@ -31,6 +31,6 @@ I’m a Computer Science student at the University of Bath, currently in my seco
 
 ### 📫 How to reach me:
 - Email: **[kumar.aravind@aol.com](mailto:kumar.aravind@aol.com)**
-- LinkedIn: **[LinkedIn Profile](https://www.linkedin.com/in/aravind-kumar-74720a212/)**
+**[LinkedIn Profile](https://www.linkedin.com/in/aravind-kumar-74720a212/)**
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/araa427)
