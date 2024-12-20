@@ -21,7 +21,7 @@ I’m a Computer Science student at the University of Bath, currently in my seco
   - **Frontend:** React, TypeScript, Tailwind CSS
   - **Backend:** Node.js, Express
   - **Database:** PostgreSQL model via Supabase
-  - **Machine Learning:** LLaMA 3 via Groq inference engine.
+  - **NLP Model:** LLaMA 3 via Groq inference engine.
 
 ## 🔧 Languages: 
 [![My Skills](https://skillicons.dev/icons?i=py,cs,cpp,java,sqlite,js,ts,haskell)](https://skillicons.dev)
