@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋 I'm Aravind Kumar
 
-I’m a Computer Science student at the University of Bath, currently in my second year, with a passion for full stack development, data analysis, and machine learning. Through my various projects and internship experience, I am constantly driven by my curiosity for learning new technologies and solving complex problems.
+I’m a Computer Science student at the University of Bath, currently in my second year, with a passion for full stack development, algorithmic trading, and machine learning. Through my various projects and internship experience, I am constantly driven by my curiosity for learning new technologies and solving complex problems.
 
 ## Upcoming Projects:
 - [ ] **E-Commerce Sentiment Analysis Platform**
